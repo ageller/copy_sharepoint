@@ -13,3 +13,5 @@ Run the script from the (bash) command line with:
 ```
 
 The script will first compare file timestamps and provide the user with a list of differences (indicating whether the local or sharepoint versions are newer).  Next the script gives the user the option to either copy from local to sharepoint or vice versa.  
+
+This script (and the configurations for rclone) was written/debugged/discussed with the help of ChatGPT.
